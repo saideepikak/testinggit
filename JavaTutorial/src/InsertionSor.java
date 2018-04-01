@@ -1,4 +1,6 @@
-
+/*
+ * Insertion Sort program
+ */
 class InsertionSor
 {
     /*Function to sort array using insertion sort*/
